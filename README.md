@@ -34,7 +34,7 @@ profile = {
 
 ## Featured Projects
 
-### 🔍 [EarningsLens](https://github.com/abhaythomas/EarningsLens) — Adaptive RAG for Earnings Call Analysis
+### 🔍 [EarningsLens](https://github.com/abhaythomas/earnings_lens) — Adaptive RAG for Earnings Call Analysis
 > Ask questions over earnings call transcripts and SEC filings. Get cited, grounded answers.
 
 Unlike basic RAG, EarningsLens uses an **agentic self-correcting pipeline** — it grades retrieved documents, detects hallucinations, and rewrites the query and retries automatically when answers fail quality checks.
@@ -45,7 +45,7 @@ Unlike basic RAG, EarningsLens uses an **agentic self-correcting pipeline** — 
 
 ---
 
-### ⚽ [FantasyEdge](https://github.com/abhaythomas/fantasyedge) — Agentic FPL Analyst
+### ⚽ [FantasyEdge](https://github.com/abhaythomas/fantasy_edge) — Agentic FPL Analyst
 > An AI agent that autonomously decides which tools to call, in what order, to answer Fantasy Premier League questions.
 
 Built with **LangGraph's ReAct pattern** — the agent reasons, acts, observes, and loops. Same 6 tools, completely different execution paths depending on the question. Includes a documented scoring engine, constraint-based optimizer, and 3-layer memory (conversation, preferences, squad state).
@@ -63,7 +63,7 @@ Demonstrates the complete production loop: scheduled trigger → data fetch → 
 
 ---
 
-### 🧠 [LLM Fine-tuning — ARC Benchmark](https://github.com/abhaythomas/arc-llama) — Abstract Reasoning
+### 🧠 [LLM Fine-tuning — ARC Benchmark](https://github.com/abhaythomas/Team-Project-ARC-Competition) — Abstract Reasoning
 > Fine-tuned LLaMA-3.1-8B with LoRA/PEFT on the ARC Challenge. Evaluated 54 hyperparameter configurations. Key finding: explicit reasoning annotations significantly outperform raw fine-tuning.
 
 `LoRA / PEFT` `LLaMA-3.1-8B` `PyTorch` `Unsloth` `HuggingFace` `BigBird-RoBERTa`
