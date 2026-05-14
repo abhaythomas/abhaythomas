@@ -41,7 +41,7 @@ Unlike basic RAG, EarningsLens uses an **agentic self-correcting pipeline** — 
 
 `LangGraph` `LangChain` `Groq (Llama 3.3 70B)` `ChromaDB` `HuggingFace Embeddings` `Streamlit` `FastAPI` `Docker`
 
-🟢 **[Live Demo →](https://earningslens-b4fjpwzptyqempqmzuhuff.streamlit.app/)**
+🟢 **[Live Demo →](https://earningslens-rag.streamlit.app/)**
 
 ---
 
