@@ -18,7 +18,7 @@
 
 ## What I Build
 
-I work at the intersection of **Generative AI** and **production engineering** — not prototypes, but shipped systems with real pipelines, evaluations, and deployment.
+I work at the intersection of **Generative AI** and **production engineering**
 
 ```python
 profile = {
