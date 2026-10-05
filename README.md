@@ -5,8 +5,6 @@
 
 ### ML & AI Engineer · MSc Data Science @ Universität Mannheim
 
-*I build production AI systems — agentic RAG pipelines, autonomous agents, LLM fine-tuning — end to end.*
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhaythomas.github.io-black?style=flat-square&logo=github)](https://abhaythomas.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhay--thomas-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abhay-thomas-65ab4919a/)
 [![Email](https://img.shields.io/badge/Email-abhayskariathomas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhayskariathomas@gmail.com)
